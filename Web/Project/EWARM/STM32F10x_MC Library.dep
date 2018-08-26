@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1749212698</fileChecksum>
+  <configuration>
+    <name>STM32F10x_DUAL_DRIVE</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>IARCHIVE</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>STM32F10x_SINGLE_DRIVE</name>
+    <outputs>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_HD2_PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R3_HD2_PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MotorPowerMeasurementClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MCIRQHandlerClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MC_Math.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PID_PIRegulatorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\NTC_TemperatureSensorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\TemperatureSensorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\R3_HD2_PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\R3_LM1_PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\Virtual_BusVoltageSensorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\MotorPowerMeasurementClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_VL1_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MotorPowerMeasurementClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_LM1_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_HD2_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\ICS_HD2_PWMnCurrFdbkClass.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\CircleLimitationClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PID_PIRegulatorClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\GAP_F1xx_GateDriverCtrlClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MCIRQHandlerClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\SpeednTorqCtrlClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MC_Math.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R3_HD2_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\OpenLoopClass.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\TemperatureSensorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\InrushCurrentLimiterClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R3_HD2_PWMnCurrFdbkClass.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\RampExtMngrClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\StateMachineClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_LM1_PWMnCurrFdbkClass.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</file>
+      <file>$PROJ_DIR$\..\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\RampMngrClass.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GAP_F1xx_GateDriverCtrlClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\DigitalOutputClass.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\DigitalOutputClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\PID_PIRegulatorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\CircleLimitationClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\EncAlignCtrlClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\R1_LM1_PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MotorPowerMeasurementClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ENCODER_SpeednPosFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\MCIRQHandlerClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PQD_MotorPowerMeasurementClass.o</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R1_DD_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\SpeednTorqCtrlClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\PIRegulatorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\NTC_TemperatureSensorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\BusVoltageSensorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\OpenLoopClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Rdivider_BusVoltageSensorClass.o</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\InrushCurrentLimiterClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\VirtualSpeedSensor_SpeednPosFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\NTC_TemperatureSensorClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GAP_GateDriverCtrlClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\DigitalOutputClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\Exe\MC_Library_STM32F10x_single_drive.a</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PQD_MotorPowerMeasurementClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ICS_HD2_PWMnCurrFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\CircleLimitationClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Virtual_TemperatureSensorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\EncAlignCtrlClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ICS_LM1_PWMnCurrFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\BusVoltageSensorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GateDriverCtrlClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PID_PIRegulatorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\HALL_SpeednPosFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_HD2_PWMnCurrFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MCIRQHandlerClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\InrushCurrentLimiterClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\MC_Math.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Virtual_BusVoltageSensorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_VL1_PWMnCurrFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R3_LM1_PWMnCurrFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\OpenLoopClass.o</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R3_DD_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PWMnCurrFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PIRegulatorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R3_LM1_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\EncAlignCtrlClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Virtual_BusVoltageSensorClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Rdivider_BusVoltageSensorClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\SpeednPosFdbkClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\BusVoltageSensorClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\HALL_SpeednPosFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\StateMachineClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Virtual_TemperatureSensorClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\TemperatureSensorClass.o</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\VirtualSpeedSensor_SpeednPosFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PIRegulatorClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\PQD_MotorPowerMeasurementClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\R1_HD2_PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\R1_VL1_PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\ICS_LM1_PWMnCurrFdbkClass.lst</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\OpenLoopPrivate.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\VirtualSpeedSensor_SpeednPosFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PIRegulatorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Virtual_TemperatureSensorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Virtual_BusVoltageSensorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ICS_LM1_PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\InrushCurrentLimiterClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\NTC_TemperatureSensorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\Virtual_TemperatureSensorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\SpeednTorqCtrlClass.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\MCLibraryISRPriorityConf.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\CircleLimitationPrivate.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\ENCODER_SpeednPosFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\SpeednPosFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\GateDriverCtrlClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\RampExtMngrClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\RampMngrClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GAP_F1xx_GateDriverCtrlClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ICS_LM1_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ICS_HD2_PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\Rdivider_BusVoltageSensorClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\VirtualSpeedSensor_SpeednPosFdbkClass.lst</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\GAP_GateDriverCtrlClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\MC_Math.lst</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\ICS_DD_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\DigitalOutputClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\MC_Math.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\MC_type.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\RampMngrClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\PID_PIRegulatorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\MCIRQHandlerClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\ENCODER_SpeednPosFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\PIRegulatorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\common\RampExtMngrClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\EncAlignCtrlClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\BusVoltageSensorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\CircleLimitationClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\GateDriverCtrlClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\GAP_GateDriverCtrlClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\HALL_SpeednPosFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\ICS_HD2_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\ICS_LM1_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\InrushCurrentLimiterClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\MotorPowerMeasurementClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\OpenLoopClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\NTC_TemperatureSensorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\PQD_MotorPowerMeasurementClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\Rdivider_BusVoltageSensorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R1_HD2_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R1_LM1_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R1_VL1_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R3_HD2_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\R3_LM1_PWMnCurrFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\SpeednPosFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\SpeednTorqCtrlClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\StateMachineClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\VirtualSpeedSensor_SpeednPosFdbkClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\Virtual_BusVoltageSensorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\TemperatureSensorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\interface\Virtual_TemperatureSensorClass.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\BusVoltageSensorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\EncAlignCtrlPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\DigitalOutputPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\GAP_GateDriverCtrlPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\HALL_SpeednPosFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\ENCODER_SpeednPosFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\GateDriverCtrlPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\PID_PIRegulatorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\MCIRQHandlerPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\ICS_HD2_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\ICS_LM1_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\InrushCurrentLimiterPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\PIRegulatorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\MotorPowerMeasurementPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\NTC_TemperatureSensorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\PQD_MotorPowerMeasurementPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\R1_HD2_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\RampMngrPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\R1_LM1_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\R1_VL1_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\R3_HD2_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\R3_LM1_PWMnCurrFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\RampExtMngrPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\SpeednPosFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\Rdivider_BusVoltageSensorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\SpeednTorqCtrlPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\StateMachinePrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\TemperatureSensorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\Virtual_BusVoltageSensorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\BusVoltageSensorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\Virtual_TemperatureSensorPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\inc\VirtualSpeedSensor_SpeednPosFdbkPrivate.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\CircleLimitationClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\DigitalOutputClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\EncAlignCtrlClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\ENCODER_SpeednPosFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\HALL_SpeednPosFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\GAP_GateDriverCtrlClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\GAP_F1xx_GateDriverCtrlClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\GateDriverCtrlClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\MCIRQHandlerClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\ICS_HD2_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\ICS_LM1_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\InrushCurrentLimiterClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\MC_Math.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\MotorPowerMeasurementClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\PID_PIRegulatorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\NTC_TemperatureSensorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\OpenLoopClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\PIRegulatorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\PQD_MotorPowerMeasurementClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\R1_HD2_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\R1_LM1_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\RampMngrClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\R1_VL1_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\R3_HD2_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\R3_LM1_PWMnCurrFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\RampExtMngrClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\SpeednPosFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\SpeednTorqCtrlClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\Rdivider_BusVoltageSensorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\StateMachineClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\TemperatureSensorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\MCLibraryConf.h</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\VirtualSpeedSensor_SpeednPosFdbkClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\Virtual_BusVoltageSensorClass.c</file>
+      <file>$PROJ_DIR$\..\..\MCLibrary\src\Virtual_TemperatureSensorClass.c</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PWMnCurrFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\RampExtMngrClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\RampMngrClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\SpeednTorqCtrlClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\SpeednPosFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\StateMachineClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\TemperatureSensorClass.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h</file>
+      <file>$PROJ_DIR$\..\..\..\Common\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GAP_GateDriverCtrlClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\SpeednPosFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ENCODER_SpeednPosFdbkClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ICS_HD2_PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\HALL_SpeednPosFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\DigitalOutputClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\OpenLoopClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GAP_F1xx_GateDriverCtrlClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\ENCODER_SpeednPosFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GateDriverCtrlClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\StateMachineClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\EncAlignCtrlClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\CircleLimitationClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GateDriverCtrlClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\BusVoltageSensorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\List\HALL_SpeednPosFdbkClass.lst</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\GAP_GateDriverCtrlClass.pbi</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\PQD_MotorPowerMeasurementClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_LM1_PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R1_VL1_PWMnCurrFdbkClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\Rdivider_BusVoltageSensorClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\RampExtMngrClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\RampMngrClass.__cstat.et</file>
+      <file>$PROJ_DIR$\MC Library Compiled\STM32F10x_SD\Obj\R3_LM1_PWMnCurrFdbkClass.__cstat.et</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\BusVoltageSensorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62 78</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 284</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 168 47 116 115 112 109 110 108 252 248 111 113 114 106 183 149 104 107 44 41 37 39 40 157 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 168 183 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\CircleLimitationClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 74</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 282</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 115 43 110 27 252 111 258 248 31 17 268 259 254 132 149 104 38 36 32 26 65 269 264 256 261 255 158 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 158 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 132 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\DigitalOutputClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 70</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 275</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 115 43 110 27 252 258 248 149 104 31 17 268 259 254 185 111 38 36 32 26 65 269 264 256 261 255 147 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 147 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 185 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\EncAlignCtrlClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 76</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 281</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 104 110 256 179 36 32 269 255 248 149 38 26 65 264 261 176 184 177 153 111 115 31 43 17 27 268 258 259 262 254 156 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143 154</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 177 154 176 179 153 184 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\ENCODER_SpeednPosFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 272</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 133 54</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 278</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 107 109 40 252 191 37 153 131 149 104 41 39 207 188 248 111 115 112 110 47 113 116 114 108 106 143 176 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 207 153 188 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\HALL_SpeednPosFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 285 81</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 274</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 252 110 108 109 191 47 116 143 161 131 149 104 113 114 106 207 187 248 107 44 41 37 39 40 176 111 115 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 207 161 187 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\GAP_GateDriverCtrlClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 286</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 144 69</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 270</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 115 43 110 27 252 248 104 258 160 31 17 268 259 254 189 186 149 111 38 36 32 26 65 269 264 256 261 255 159 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 189 160 186 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\GAP_F1xx_GateDriverCtrlClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 45</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 277</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 149 115 43 110 27 252 248 111 258 160 31 17 268 259 254 189 186 104 38 36 32 26 65 269 264 256 261 255 159 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 189 160 186 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\GateDriverCtrlClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 283</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 135 79</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 279</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262 115 43 110 27 252 104 258 248 149 31 17 268 259 254 189 111 38 36 32 26 65 269 264 256 261 255 159 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 189 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\MCIRQHandlerClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 83</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 152 191</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152 191</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\ICS_HD2_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 73</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 273</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 131 41 192 39 198 191 104 107 109 44 37 40 168 162 152 248 149 111 115 112 110 47 113 116 114 108 106 143 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254 146</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 162 146 192 152 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\ICS_LM1_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 139</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 120 77</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 126</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 258 115 193 43 110 27 262 252 198 131 149 111 31 17 268 259 254 168 163 248 104 38 36 32 26 65 269 264 256 261 255 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 163 193 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\InrushCurrentLimiterClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29 84</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 127</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 258 149 111 115 43 110 27 262 252 248 147 31 17 268 259 254 194 157 104 38 36 32 26 65 269 264 256 261 255 164 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 164 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 157 168 147 194 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\MC_Math.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 145 85</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 149 112 252 110 108 109 111 47 116 143 115 113 114 106 104 107 44 41 37 39 40 148 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 148 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\MotorPowerMeasurementClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 53</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255 36 32 252 269 104 110 256 248 149 38 26 65 264 261 196 111 115 31 43 17 27 268 258 259 262 254 165 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 165 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 196 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\PID_PIRegulatorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49 80</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255 36 32 252 269 248 111 110 256 151 149 115 38 26 65 264 261 195 190 104 31 43 17 27 268 258 259 262 254 154 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 154 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 195 151 190 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\NTC_TemperatureSensorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 128 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 149 41 248 104 39 167 107 109 44 37 40 211 197 168 111 115 112 110 47 113 116 114 108 106 143 181 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 181 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 168 211 167 197 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\OpenLoopClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63 89</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 276</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 258 111 115 43 110 27 262 252 248 176 31 17 268 259 254 149 121 104 38 36 32 26 65 269 264 256 261 255 166 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 166 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 176 121 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\PIRegulatorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 105</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60 92</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 123</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 17 110 254 268 111 31 259 248 149 115 43 27 258 262 195 104 38 36 32 26 65 269 264 256 261 255 154 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 154 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 195 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 253</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 59 91</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 287</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115 109 112 110 108 252 47 116 143 248 149 111 113 114 106 198 104 107 44 41 37 39 40 168 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\PQD_MotorPowerMeasurementClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117 56</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 288</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 113 106 248 252 104 47 114 169 112 109 110 116 108 143 157 196 199 149 111 115 107 44 41 37 39 40 165 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 165 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 196 169 157 168 199 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\R1_HD2_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118 82</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 131 37 200 107 109 44 40 198 191 149 41 39 168 171 152 248 104 112 110 47 113 116 114 108 106 143 111 115 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 171 57 200 152 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\R1_LM1_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52 35</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 289</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 149 111 115 43 252 27 131 262 202 258 198 191 31 17 268 259 254 168 172 152 248 104 38 36 32 26 65 269 264 256 261 255 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 172 202 152 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\RampMngrClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 260</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 137 42</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 293</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31 259 252 115 17 110 268 254 149 111 43 27 258 262 201 104 38 36 32 26 65 269 264 256 261 255 150 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 150 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 201</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\R1_VL1_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 119 87</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 290</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 115 43 252 27 149 262 152 111 258 173 248 31 17 268 259 254 168 198 203 191 131 104 38 36 32 26 65 269 264 256 261 255 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 173 203 152 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\R3_HD2_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 30</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 37 131 204 115 107 109 44 40 198 191 149 111 41 39 168 174 152 248 104 112 110 47 113 116 114 108 106 143 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 174 90 204 152 191 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\R3_LM1_PWMnCurrFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 88</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 294</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38 26 264 252 205 65 261 198 131 104 110 36 32 269 256 255 168 175 248 149 111 115 31 43 17 27 268 258 259 262 254 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 198 175 205 248 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\RampExtMngrClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 257</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 136 33</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 292</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 268 252 17 110 254 31 259 149 104 115 43 27 258 262 206 111 38 36 32 26 65 269 264 256 261 255 155 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 155 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 206</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\SpeednPosFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 265</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 134 97</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 271</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 261 115 65 38 26 264 248 111 110 36 32 269 256 255 207 149 104 31 43 17 27 268 258 259 262 254 176 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 207 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\SpeednTorqCtrlClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 263</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 22</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 130</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 261 149 104 65 38 26 264 248 176 110 36 32 269 256 255 209 154 111 115 31 43 17 27 268 258 259 262 254 177 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 177 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 154 176 209 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\Rdivider_BusVoltageSensorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141 64</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 291</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 149 41 248 104 39 170 107 109 44 37 40 183 208 168 111 115 112 110 47 113 116 114 108 106 143 157 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 168 183 170 208 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\StateMachineClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 266</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34 100</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 280</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65 252 261 38 26 264 248 104 110 36 32 269 256 255 210 149 111 115 31 43 17 27 268 258 259 262 254 178 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 210 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\TemperatureSensorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 267</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 102</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 252 104 47 116 149 112 109 110 108 248 113 114 106 211 168 111 115 107 44 41 37 39 40 181 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 181 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 168 211 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\VirtualSpeedSensor_SpeednPosFdbkClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 142 67</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 269 36 32 255 252 248 111 110 256 179 115 38 26 65 264 261 207 215 149 104 31 43 17 27 268 258 259 262 254 176 112 109 107 47 113 44 116 41 114 37 108 39 106 40 143</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 207 179 215 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\Virtual_BusVoltageSensorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 86</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 168 41 248 115 39 180 111 107 109 44 37 40 183 212 149 104 112 110 47 113 116 114 108 106 143 157 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 168 183 180 212 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\MCLibrary\src\Virtual_TemperatureSensorClass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 129 75</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 124</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 252 149 41 248 104 39 182 107 109 44 37 40 211 214 168 111 115 112 110 47 113 116 114 108 106 143 181 38 31 43 36 32 17 26 65 27 269 268 264 258 256 259 261 262 255 254</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 181 149 252 111 115 110 109 43 32 17 36 107 112 47 26 31 104 38 65 113 27 44 269 116 268 41 264 114 258 37 256 108 259 39 261 106 262 40 255 143 254 168 211 182 214 248</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
